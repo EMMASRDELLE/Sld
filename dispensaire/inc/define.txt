@@ -1,0 +1,7 @@
+// mettre dans le header de chaque FO
+
+define('PATIENT', '/patient/'); 
+define('MEDECIN', '/medecin/'); 
+define('HOPITAL', '/hopital/'); 
+define('LABO', '/labo/'); 
+define('RADIO', '/radio/'); 
